@@ -16,15 +16,6 @@ typeid:7,
 uuid:"659A3D76-24E8-49C9-96D6-74A0E80B6809"
 },
 {
-location:"319,84",
-name:"tabs",
-printable:false,
-size:"300,300",
-transparent:true,
-typeid:16,
-uuid:"7070FBF8-15E1-42F4-B62A-D12F3CA61132"
-},
-{
 height:480,
 partType:5,
 typeid:19,
